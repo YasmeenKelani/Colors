@@ -1,0 +1,56 @@
+body{
+  background-image: url("https://www.publicdomainpictures.net/pictures/70000/nahled/blue-textured-paper-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+header li{
+background-color: aliceblue;
+display:inline-block;
+padding: 20px;
+}
+
+
+#pait{
+  float: left;
+  width: 200px;
+  height: 200px;
+
+}
+
+
+header{
+   background-image: url("https://files.123freevectors.com/wp-content/original/176222-blue-and-grey-water-paint-background-image.jpg");
+    background-color: aliceblue;
+}
+
+ h1{
+  
+   text-align: center;
+ }
+
+ h2{
+   
+   text-align: left;
+ }
+
+ footer{
+   text-align: center;
+   background-color: aliceblue;
+   padding:10px;
+ }
+
+section li{
+  float: left;
+  margin-top: 100px;
+background-color: aliceblue;
+padding: 20px;
+
+}
+
+div {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWabNs3VJbnf5kTMDtc-_JAxTEgeLq01VWVQ&usqp=CAU");
+    display: inline-block;
+    margin:30px 70px;
+   padding: 20px;
+}
