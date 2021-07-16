@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://www.publicdomainpictures.net/pictures/70000/nahled/blue-textured-paper-background.jpg");
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60ce3634-a934-408c-8c9c-4d3f17d8dda9/d5kx59w-507e060d-874c-47aa-a1b4-48594c8c8879.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwY2UzNjM0LWE5MzQtNDA4Yy04YzljLTRkM2YxN2Q4ZGRhOVwvZDVreDU5dy01MDdlMDYwZC04NzRjLTQ3YWEtYTFiNC00ODU5NGM4Yzg4NzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CFulTD61dH_2Kf5iv27_HcPupyrN2AfjZmYm_qBNb1M");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -10,14 +10,11 @@ display:inline-block;
 padding: 20px;
 }
 
-
 #pait{
   float: left;
   width: 200px;
   height: 200px;
-
 }
-
 
 header{
    background-image: url("https://files.123freevectors.com/wp-content/original/176222-blue-and-grey-water-paint-background-image.jpg");
@@ -25,12 +22,10 @@ header{
 }
 
  h1{
-  
    text-align: center;
  }
 
- h2{
-   
+ h2{ 
    text-align: left;
  }
 
@@ -45,7 +40,6 @@ section li{
   margin-top: 100px;
 background-color: aliceblue;
 padding: 20px;
-
 }
 
 div {

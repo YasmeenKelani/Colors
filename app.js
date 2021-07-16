@@ -28,6 +28,6 @@ console.log("oil Color")
 
 }
 else{
-  alert('Sorry we dont have that color')
+  alert('Sorry we dont have your color but we might have colors you will like')
   console.log("No Color")
 }
