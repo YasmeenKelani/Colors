@@ -4,6 +4,16 @@ alert("Hello, Wlecome to my Website " + name )
 
 var favColor = prompt("What is your fav typye of Color?")
 
+function stars(){
+var rating = prompt("please rate my website")
+while(rating > 5){
+rating = prompt("please rate my website from 1 to 5")
+}
+alert("Thank you!")
+}
+
+function userfavColor(){
+
 while( favColor != "Acrylic" && favColor != "Water Color" && favColor != "oil color"){
 
  favColor = prompt("What is your fav typye of Color?, please choose one of these Colors: Acrylic, Water Color, oil Color") }
@@ -45,3 +55,6 @@ else{
   alert('Sorry we dont have your color but we might have colors you will like')
   console.log("No Color")
 }
+}
+userfavColor();
+stars();
