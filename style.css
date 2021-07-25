@@ -22,6 +22,7 @@ header{
 }
 
  h1{
+   padding: 20px;
    text-align: center;
  }
 
@@ -42,9 +43,14 @@ background-color: aliceblue;
 padding: 20px;
 }
 
-div {
+ div {
+   
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWabNs3VJbnf5kTMDtc-_JAxTEgeLq01VWVQ&usqp=CAU");
     display: inline-block;
     margin:30px 70px;
    padding: 20px;
+} 
+
+#test {
+  clear: both;
 }
